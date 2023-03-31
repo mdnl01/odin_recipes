@@ -1,2 +1,3 @@
 # odin_recipes
-Recipes project HTML, TOP
+Building a Recipe Website
+This Website will contain an Index Page with links to a few Recipes.
